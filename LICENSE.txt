@@ -36,7 +36,7 @@ Senza pregiudizio per altri diritti, il Licenziante può risolvere immediatament
 Il presente EULA è regolato dalle leggi dello Stato Italiano. Qualsiasi controversia derivante da o relativa a questo accordo sarà di competenza esclusiva del Foro di Lecce.
 
 
---------------------------------------------------------------------------------------------------------------------------------------------------
+-------------------------------------------------------------------------------------------------------------------------------
 ACCORDO SUL DIVIETO DI REDISTRIBUZIONE E REVERSE ENGINEERING
 Rif. Software: RawFilter Engine
 Data: 14/04/2026
