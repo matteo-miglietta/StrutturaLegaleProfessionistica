@@ -34,3 +34,36 @@ Senza pregiudizio per altri diritti, il Licenziante può risolvere immediatament
 
 7. LEGGE APPLICABILE E FORO COMPETENTE
 Il presente EULA è regolato dalle leggi dello Stato Italiano. Qualsiasi controversia derivante da o relativa a questo accordo sarà di competenza esclusiva del Foro di Lecce.
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ACCORDO SUL DIVIETO DI REDISTRIBUZIONE E REVERSE ENGINEERING
+Rif. Software: RawFilter Engine
+Data: 14/04/2026
+
+Il presente accordo è stipulato tra Sr Project (di seguito denominato "Sviluppatore") e l'Utente/Cliente (di seguito denominato "Licenziatario").
+
+Accettando, installando o utilizzando il software "RawFilter Engine" (di seguito "Software"), il Licenziatario riconosce che il Software contiene algoritmi proprietari e segreti industriali di inestimabile valore per lo Sviluppatore. Pertanto, il Licenziatario si impegna a rispettare rigorosamente le seguenti clausole:
+
+Art. 1 - Divieto Assoluto di Redistribuzione
+Il Licenziatario acquisisce esclusivamente il diritto di utilizzare il Software per le proprie attività professionali interne. È severamente e categoricamente vietato:
+
+Copiare, riprodurre o duplicare il Software, ad eccezione di una singola copia di backup per uso interno.
+
+Condividere, vendere, noleggiare, concedere in leasing, sub-licenziare o trasferire il Software a terze parti (individui, aziende o enti).
+
+Pubblicare il Software su reti pubbliche, repository aperti o piattaforme di file-sharing.
+
+Art. 2 - Divieto di Reverse Engineering e Tutela del Segreto Industriale
+La logica, la struttura e gli algoritmi di filtraggio dei file RAW costituiscono proprietà intellettuale e segreto commerciale esclusivo dello Sviluppatore. Al fine di tutelare tale segreto industriale, il Licenziatario si impegna espressamente a non effettuare, né consentire a terzi di effettuare, le seguenti operazioni:
+
+Reverse engineering (ingegneria inversa) del Software.
+
+Decompilazione o disassemblaggio dei file binari e degli eseguibili.
+
+Qualsiasi tentativo di estrarre, ricostruire o decifrare il codice sorgente originale, le routine di analisi o i database interni del Software.
+
+Sviluppo di software derivato o concorrente basato sull'analisi del funzionamento interno di "RawFilter Engine".
+
+Art. 3 - Conseguenze in caso di Violazione
+Qualsiasi violazione, anche parziale, degli Articoli 1 e 2 comporterà la risoluzione immediata di qualsiasi licenza d'uso concessa al Licenziatario. Lo Sviluppatore si riserva il diritto di intraprendere ogni azione legale necessaria nelle sedi civili e penali competenti per ottenere il blocco dell'attività illecita e il risarcimento di tutti i danni diretti, indiretti e d'immagine subiti.
