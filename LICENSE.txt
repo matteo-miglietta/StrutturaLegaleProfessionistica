@@ -1,4 +1,4 @@
-#ACCORDO DI LICENZA PER L'UTENTE FINALE (EULA)
+ACCORDO DI LICENZA PER L'UTENTE FINALE (EULA)
 Prodotto Software: RawFilter Engine
 Data di validità: 14/04/2026
 
@@ -6,10 +6,10 @@ Il presente Accordo di Licenza per l'Utente Finale ("EULA") è un accordo legale
 
 Installando, copiando o utilizzando in altro modo il Software, il Licenziatario accetta di essere vincolato dai termini del presente EULA. Se non si accettano i termini, non è consentito installare o utilizzare il Software.
 
-#1. CONCESSIONE DELLA LICENZA
+1. CONCESSIONE DELLA LICENZA
 Il Licenziante concede al Licenziatario un diritto limitato, personale, non esclusivo e non trasferibile per l'installazione e l'utilizzo di una (1) copia del Software su un singolo computer o postazione di lavoro, esclusivamente per scopi professionali o commerciali interni.
 
-#2. RESTRIZIONI D'USO E SEGRETO INDUSTRIALE
+2. RESTRIZIONI D'USO E SEGRETO INDUSTRIALE
 Il Software contiene algoritmi avanzati di filtraggio e analisi dell'immagine che costituiscono segreto industriale e proprietà intellettuale esclusiva del Licenziante. Per tutelare tali diritti, al Licenziatario è severamente vietato:
 
 **Ridistribuzione**: Copiare, distribuire, condividere, noleggiare, concedere in leasing, prestare o sub-licenziare il Software a terze parti.
@@ -20,17 +20,17 @@ Il Software contiene algoritmi avanzati di filtraggio e analisi dell'immagine ch
 
 **Aggiramento delle protezioni**: Rimuovere, alterare o oscurare qualsiasi avviso di copyright, marchio registrato o altra nota di proprietà presente nel Software.
 
-#3. PROPRIETÀ INTELLETTUALE E COPYRIGHT
+3. PROPRIETÀ INTELLETTUALE E COPYRIGHT
 Il Software non viene venduto, ma concesso in licenza. Tutti i titoli e i diritti d'autore relativi al Software, e qualsiasi copia di esso, sono di proprietà esclusiva del Licenziante. Questo EULA non concede al Licenziatario alcun diritto di proprietà intellettuale.
 
-#4. ESCLUSIONE DI GARANZIE ("AS IS")
+4. ESCLUSIONE DI GARANZIE ("AS IS")
 Il Software viene fornito così com'è senza alcuna garanzia esplicita o implicita. Il Licenziante non garantisce che il Software sia esente da errori o che il suo funzionamento sarà ininterrotto. L'uso del Software è a rischio e pericolo del Licenziatario.
 
-#5. LIMITAZIONE DI RESPONSABILITÀ
+5. LIMITAZIONE DI RESPONSABILITÀ
 In nessun caso il Licenziante sarà ritenuto responsabile per danni speciali, incidentali, diretti, indiretti o consequenziali (inclusi, senza limitazione, danni per perdita di profitti aziendali, interruzione dell'attività, o perdita di dati, inclusa l'accidentale cancellazione o corruzione di file RAW o fotografici) derivanti dall'uso o dall'impossibilità di utilizzare il Software.
 
-#6. RISOLUZIONE
+6. RISOLUZIONE
 Senza pregiudizio per altri diritti, il Licenziante può risolvere immediatamente questo EULA se il Licenziatario non rispetta i termini e le condizioni in esso contenuti. In tal caso, il Licenziatario è obbligato a distruggere tutte le copie del Software in suo possesso e a disinstallarlo dai propri dispositivi.
 
-#7. LEGGE APPLICABILE E FORO COMPETENTE
-Il presente EULA è regolato dalle leggi dello Stato Italiano. Qualsiasi controversia derivante da o relativa a questo accordo sarà di competenza esclusiva del Foro di [Tua Città, es. Lecce].
+7. LEGGE APPLICABILE E FORO COMPETENTE
+Il presente EULA è regolato dalle leggi dello Stato Italiano. Qualsiasi controversia derivante da o relativa a questo accordo sarà di competenza esclusiva del Foro di Lecce.
