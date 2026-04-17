@@ -9,4 +9,4 @@ Il software "RawFilter Engine", inclusi i suoi algoritmi di analisi dell'immagin
 # Licenza
 Questo software è rilasciato sotto una **Licenza Proprietaria (EULA - End User License Agreement)**. 
 
-**Perché questa scelta:** Ho scelto questa licenza perché, come professionista, il mio obiettivo è proteggere ogni singolo segreto industriale e l'algoritmo di filtraggio che ho sviluppato. Questa licenza mi permette di vietare la ridistribuzione del software e di impedire che la concorrenza possa studiare o copiare il mio lavoro, garantendo così un vantaggio competitivo sul mercato.
+**Perché questa scelta:** Abbiamo scelto questa licenza perché, come professionisti, il nostro obiettivo è proteggere ogni singolo segreto industriale e l'algoritmo di filtraggio che abbiamo sviluppato. Questa licenza ci permette di vietare la ridistribuzione del software e di impedire che la concorrenza possa studiare o copiare il nostro lavoro, garantendo così un vantaggio competitivo sul mercato.
