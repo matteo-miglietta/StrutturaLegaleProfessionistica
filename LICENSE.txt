@@ -2,15 +2,15 @@
 Prodotto Software: RawFilter Engine
 Data di validità: 14/04/2026
 
-Il presente Accordo di Licenza per l'Utente Finale ("EULA") è un accordo legale tra l'utente finale (persona fisica o singola entità giuridica, d'ora in avanti "Licenziatario") e SR Project (d'ora in avanti "Licenziante") per l'uso del prodotto software sopra indicato, che include il software informatico e i relativi supporti, materiali stampati e documentazione online o elettronica (d'ora in avanti "Software").
+Il presente Accordo di Licenza per l'Utente Finale ("EULA") è un accordo legale tra l'utente finale (persona fisica o singola entità giuridica, d'ora in avanti "Licenziatario") e Catania Matteo & Miglietta Matteo (d'ora in avanti "Licenzianti") per l'uso del prodotto software sopra indicato, che include il software informatico e i relativi supporti, materiali stampati e documentazione online o elettronica (d'ora in avanti "Software").
 
 Installando, copiando o utilizzando in altro modo il Software, il Licenziatario accetta di essere vincolato dai termini del presente EULA. Se non si accettano i termini, non è consentito installare o utilizzare il Software.
 
 1. CONCESSIONE DELLA LICENZA
-Il Licenziante concede al Licenziatario un diritto limitato, personale, non esclusivo e non trasferibile per l'installazione e l'utilizzo di una (1) copia del Software su un singolo computer o postazione di lavoro, esclusivamente per scopi professionali o commerciali interni.
+I Licenzianti concedono al Licenziatario un diritto limitato, personale, non esclusivo e non trasferibile per l'installazione e l'utilizzo di una (1) copia del Software su un singolo computer o postazione di lavoro, esclusivamente per scopi professionali o commerciali interni.
 
 2. RESTRIZIONI D'USO E SEGRETO INDUSTRIALE
-Il Software contiene algoritmi avanzati di filtraggio e analisi dell'immagine che costituiscono segreto industriale e proprietà intellettuale esclusiva del Licenziante. Per tutelare tali diritti, al Licenziatario è severamente vietato:
+Il Software contiene algoritmi avanzati di filtraggio e analisi dell'immagine che costituiscono segreto industriale e proprietà intellettuale esclusiva dei Licenzianti. Per tutelare tali diritti, al Licenziatario è severamente vietato:
 
 Ridistribuzione: Copiare, distribuire, condividere, noleggiare, concedere in leasing, prestare o sub-licenziare il Software a terze parti.
 
@@ -21,16 +21,16 @@ Modifica: Alterare, modificare, tradurre o creare opere derivate basate sul Soft
 Aggiramento delle protezioni: Rimuovere, alterare o oscurare qualsiasi avviso di copyright, marchio registrato o altra nota di proprietà presente nel Software.
 
 3. PROPRIETÀ INTELLETTUALE E COPYRIGHT
-Il Software non viene venduto, ma concesso in licenza. Tutti i titoli e i diritti d'autore relativi al Software, e qualsiasi copia di esso, sono di proprietà esclusiva del Licenziante. Questo EULA non concede al Licenziatario alcun diritto di proprietà intellettuale.
+Il Software non viene venduto, ma concesso in licenza. Tutti i titoli e i diritti d'autore relativi al Software, e qualsiasi copia di esso, sono di proprietà esclusiva dei Licenzianti. Questo EULA non concede al Licenziatario alcun diritto di proprietà intellettuale.
 
 4. ESCLUSIONE DI GARANZIE ("AS IS")
-Il Software viene fornito così com'è senza alcuna garanzia esplicita o implicita. Il Licenziante non garantisce che il Software sia esente da errori o che il suo funzionamento sarà ininterrotto. L'uso del Software è a rischio e pericolo del Licenziatario.
+Il Software viene fornito così com'è senza alcuna garanzia esplicita o implicita. I Licenzianti non garantiscono che il Software sia esente da errori o che il suo funzionamento sarà ininterrotto. L'uso del Software è a rischio e pericolo del Licenziatario.
 
 5. LIMITAZIONE DI RESPONSABILITÀ
-In nessun caso il Licenziante sarà ritenuto responsabile per danni speciali, incidentali, diretti, indiretti o consequenziali (inclusi, senza limitazione, danni per perdita di profitti aziendali, interruzione dell'attività, o perdita di dati, inclusa l'accidentale cancellazione o corruzione di file RAW o fotografici) derivanti dall'uso o dall'impossibilità di utilizzare il Software.
+In nessun caso i Licenzianti saranno ritenuti responsabili per danni speciali, incidentali, diretti, indiretti o consequenziali (inclusi, senza limitazione, danni per perdita di profitti aziendali, interruzione dell'attività, o perdita di dati, inclusa l'accidentale cancellazione o corruzione di file RAW o fotografici) derivanti dall'uso o dall'impossibilità di utilizzare il Software.
 
 6. RISOLUZIONE
-Senza pregiudizio per altri diritti, il Licenziante può risolvere immediatamente questo EULA se il Licenziatario non rispetta i termini e le condizioni in esso contenuti. In tal caso, il Licenziatario è obbligato a distruggere tutte le copie del Software in suo possesso e a disinstallarlo dai propri dispositivi.
+Senza pregiudizio per altri diritti, i Licenzianti possono ricorrere immediatamente a questo EULA se il Licenziatario non rispetta i termini e le condizioni in esso contenuti. In tal caso, il Licenziatario è obbligato a distruggere tutte le copie del Software in suo possesso e a disinstallarlo dai propri dispositivi.
 
 7. LEGGE APPLICABILE E FORO COMPETENTE
 Il presente EULA è regolato dalle leggi dello Stato Italiano. Qualsiasi controversia derivante da o relativa a questo accordo sarà di competenza esclusiva del Foro di Lecce.
@@ -41,9 +41,9 @@ ACCORDO SUL DIVIETO DI REDISTRIBUZIONE E REVERSE ENGINEERING
 Rif. Software: RawFilter Engine
 Data: 14/04/2026
 
-Il presente accordo è stipulato tra Sr Project (di seguito denominato "Sviluppatore") e l'Utente/Cliente (di seguito denominato "Licenziatario").
+Il presente accordo è stipulato tra Matteo Catania & Matteo Miglietta (di seguito denominati "Sviluppatori") e l'Utente/Cliente (di seguito denominato "Licenziatario").
 
-Accettando, installando o utilizzando il software "RawFilter Engine" (di seguito "Software"), il Licenziatario riconosce che il Software contiene algoritmi proprietari e segreti industriali di inestimabile valore per lo Sviluppatore. Pertanto, il Licenziatario si impegna a rispettare rigorosamente le seguenti clausole:
+Accettando, installando o utilizzando il software "RawFilter Engine" (di seguito "Software"), il Licenziatario riconosce che il Software contiene algoritmi proprietari e segreti industriali di inestimabile valore per gli Sviluppatori. Pertanto, il Licenziatario si impegna a rispettare rigorosamente le seguenti clausole:
 
 Art. 1 - Divieto Assoluto di Redistribuzione
 Il Licenziatario acquisisce esclusivamente il diritto di utilizzare il Software per le proprie attività professionali interne. È severamente e categoricamente vietato:
@@ -55,7 +55,7 @@ Condividere, vendere, noleggiare, concedere in leasing, sub-licenziare o trasfer
 Pubblicare il Software su reti pubbliche, repository aperti o piattaforme di file-sharing.
 
 Art. 2 - Divieto di Reverse Engineering e Tutela del Segreto Industriale
-La logica, la struttura e gli algoritmi di filtraggio dei file RAW costituiscono proprietà intellettuale e segreto commerciale esclusivo dello Sviluppatore. Al fine di tutelare tale segreto industriale, il Licenziatario si impegna espressamente a non effettuare, né consentire a terzi di effettuare, le seguenti operazioni:
+La logica, la struttura e gli algoritmi di filtraggio dei file RAW costituiscono proprietà intellettuale e segreto commerciale esclusivo degli Sviluppatori. Al fine di tutelare tale segreto industriale, il Licenziatario si impegna espressamente a non effettuare, né consentire a terzi di effettuare, le seguenti operazioni:
 
 Reverse engineering (ingegneria inversa) del Software.
 
