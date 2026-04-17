@@ -48,7 +48,7 @@ Accettando, installando o utilizzando il software "RawFilter Engine" (di seguito
 Art. 1 - Divieto Assoluto di Redistribuzione
 Il Licenziatario acquisisce esclusivamente il diritto di utilizzare il Software per le proprie attività professionali interne. È severamente e categoricamente vietato:
 
-Copiare, riprodurre o duplicare il Software, ad eccezione di una singola copia di backup per uso interno.
+Copiare, riprodurre o duplicare il Software.
 
 Condividere, vendere, noleggiare, concedere in leasing, sub-licenziare o trasferire il Software a terze parti (individui, aziende o enti).
 
